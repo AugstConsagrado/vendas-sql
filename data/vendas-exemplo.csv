@@ -1,0 +1,97 @@
+date,product,category,channel,quantity,unit_price_cents
+2026-05-01,Hub USB-C,Acessórios,Loja física,1,12900
+2026-05-03,Hub USB-C,Acessórios,E-commerce,2,12900
+2026-05-05,Teclado mecânico,Periféricos,Loja física,1,21900
+2026-05-07,Hub USB-C,Acessórios,Marketplace,1,12900
+2026-05-09,Webcam Full HD,Periféricos,E-commerce,1,16900
+2026-05-11,Mouse sem fio,Periféricos,Loja física,2,7900
+2026-05-13,Teclado mecânico,Periféricos,Marketplace,1,21900
+2026-05-15,Webcam Full HD,Periféricos,Loja física,4,16900
+2026-05-17,Teclado mecânico,Periféricos,E-commerce,3,21900
+2026-05-19,Mouse sem fio,Periféricos,Loja física,4,7900
+2026-05-21,Monitor 24 polegadas,Telas,E-commerce,2,89900
+2026-05-23,Teclado mecânico,Periféricos,E-commerce,1,21900
+2026-05-25,Mouse sem fio,Periféricos,E-commerce,1,7900
+2026-05-27,Monitor 24 polegadas,Telas,E-commerce,3,89900
+2026-05-29,Mouse sem fio,Periféricos,Marketplace,4,7900
+2026-05-31,Webcam Full HD,Periféricos,Loja física,4,16900
+2026-06-02,Mouse sem fio,Periféricos,Marketplace,3,7900
+2026-06-04,Hub USB-C,Acessórios,Marketplace,3,12900
+2026-06-06,Webcam Full HD,Periféricos,Loja física,1,16900
+2026-06-08,Mouse sem fio,Periféricos,Marketplace,2,7900
+2026-06-10,Monitor 24 polegadas,Telas,Loja física,2,89900
+2026-06-12,Mouse sem fio,Periféricos,E-commerce,3,7900
+2026-06-14,SSD 500 GB,Armazenamento,Marketplace,3,27900
+2026-06-16,Teclado mecânico,Periféricos,E-commerce,3,21900
+2026-06-18,Teclado mecânico,Periféricos,Marketplace,3,21900
+2026-06-20,Hub USB-C,Acessórios,Marketplace,1,12900
+2026-06-22,Webcam Full HD,Periféricos,Marketplace,2,16900
+2026-06-24,Webcam Full HD,Periféricos,Marketplace,2,16900
+2026-06-26,Teclado mecânico,Periféricos,E-commerce,4,21900
+2026-06-28,Monitor 24 polegadas,Telas,Marketplace,2,89900
+2026-06-30,Hub USB-C,Acessórios,E-commerce,1,12900
+2026-07-02,Teclado mecânico,Periféricos,Loja física,3,21900
+2026-07-04,SSD 500 GB,Armazenamento,E-commerce,1,27900
+2026-07-06,Teclado mecânico,Periféricos,Marketplace,3,21900
+2026-07-08,Teclado mecânico,Periféricos,Marketplace,4,21900
+2026-07-10,SSD 500 GB,Armazenamento,Marketplace,4,27900
+2026-07-12,Teclado mecânico,Periféricos,E-commerce,2,21900
+2026-07-14,Teclado mecânico,Periféricos,Marketplace,3,21900
+2026-07-16,Hub USB-C,Acessórios,Marketplace,4,12900
+2026-07-18,Webcam Full HD,Periféricos,E-commerce,3,16900
+2026-07-20,Teclado mecânico,Periféricos,Loja física,4,21900
+2026-07-22,Mouse sem fio,Periféricos,Loja física,1,7900
+2026-07-24,Teclado mecânico,Periféricos,Marketplace,2,21900
+2026-07-26,Hub USB-C,Acessórios,E-commerce,1,12900
+2026-07-28,SSD 500 GB,Armazenamento,E-commerce,4,27900
+2026-07-30,Webcam Full HD,Periféricos,E-commerce,1,16900
+2026-08-01,Hub USB-C,Acessórios,Marketplace,1,12900
+2026-08-03,Hub USB-C,Acessórios,Marketplace,3,12900
+2026-08-05,Hub USB-C,Acessórios,E-commerce,1,12900
+2026-08-07,Monitor 24 polegadas,Telas,E-commerce,2,89900
+2026-08-09,SSD 500 GB,Armazenamento,Loja física,3,27900
+2026-08-11,Webcam Full HD,Periféricos,Loja física,1,16900
+2026-08-13,Hub USB-C,Acessórios,E-commerce,2,12900
+2026-08-15,Teclado mecânico,Periféricos,E-commerce,2,21900
+2026-08-17,Webcam Full HD,Periféricos,Marketplace,1,16900
+2026-08-19,Webcam Full HD,Periféricos,E-commerce,4,16900
+2026-08-21,Mouse sem fio,Periféricos,Loja física,3,7900
+2026-08-23,Monitor 24 polegadas,Telas,Loja física,1,89900
+2026-08-25,Teclado mecânico,Periféricos,Marketplace,1,21900
+2026-08-27,Mouse sem fio,Periféricos,Marketplace,4,7900
+2026-08-29,Mouse sem fio,Periféricos,Marketplace,2,7900
+2026-08-31,Teclado mecânico,Periféricos,Marketplace,4,21900
+2026-09-02,Webcam Full HD,Periféricos,Loja física,3,16900
+2026-09-04,Webcam Full HD,Periféricos,Marketplace,4,16900
+2026-09-06,Teclado mecânico,Periféricos,Marketplace,2,21900
+2026-09-08,Hub USB-C,Acessórios,E-commerce,4,12900
+2026-09-10,Hub USB-C,Acessórios,Marketplace,3,12900
+2026-09-12,SSD 500 GB,Armazenamento,Marketplace,4,27900
+2026-09-14,Mouse sem fio,Periféricos,Loja física,2,7900
+2026-09-16,Mouse sem fio,Periféricos,E-commerce,1,7900
+2026-09-18,Webcam Full HD,Periféricos,Marketplace,2,16900
+2026-09-20,Webcam Full HD,Periféricos,Loja física,1,16900
+2026-09-22,Mouse sem fio,Periféricos,Marketplace,1,7900
+2026-09-24,Teclado mecânico,Periféricos,Loja física,1,21900
+2026-09-26,Monitor 24 polegadas,Telas,Loja física,2,89900
+2026-09-28,Monitor 24 polegadas,Telas,Marketplace,4,89900
+2026-09-30,Teclado mecânico,Periféricos,Marketplace,2,21900
+2026-10-02,Hub USB-C,Acessórios,Marketplace,4,12900
+2026-10-04,Teclado mecânico,Periféricos,E-commerce,4,21900
+2026-10-06,Teclado mecânico,Periféricos,Loja física,1,21900
+2026-10-08,Hub USB-C,Acessórios,E-commerce,3,12900
+2026-10-10,SSD 500 GB,Armazenamento,E-commerce,4,27900
+2026-10-12,Hub USB-C,Acessórios,Loja física,1,12900
+2026-10-14,Mouse sem fio,Periféricos,E-commerce,3,7900
+2026-10-16,Mouse sem fio,Periféricos,Loja física,2,7900
+2026-10-18,Teclado mecânico,Periféricos,Marketplace,4,21900
+2026-10-20,Teclado mecânico,Periféricos,E-commerce,2,21900
+2026-10-22,Monitor 24 polegadas,Telas,E-commerce,2,89900
+2026-10-24,Mouse sem fio,Periféricos,E-commerce,1,7900
+2026-10-26,Mouse sem fio,Periféricos,Marketplace,1,7900
+2026-10-28,Mouse sem fio,Periféricos,Loja física,2,7900
+2026-10-30,SSD 500 GB,Armazenamento,E-commerce,4,27900
+2026-11-01,Teclado mecânico,Periféricos,E-commerce,1,21900
+2026-11-03,Teclado mecânico,Periféricos,E-commerce,1,21900
+2026-11-05,SSD 500 GB,Armazenamento,E-commerce,4,27900
+2026-11-07,Monitor 24 polegadas,Telas,E-commerce,4,89900

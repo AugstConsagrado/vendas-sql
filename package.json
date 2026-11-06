@@ -1,0 +1,9 @@
+{
+  "name": "vendas-sql",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Painel de análise de vendas com CSV, SQL e indicadores financeiros",
+  "engines": {"node": ">=22.13.0"},
+  "scripts": {"start": "node src/server.js", "test": "node --test", "import": "node src/import.js"}
+}
