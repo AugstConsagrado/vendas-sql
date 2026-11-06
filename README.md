@@ -1,6 +1,6 @@
 # Vendas SQL
 
-Painel de análise de vendas com importação de CSV, consultas SQL e interface responsiva em JavaScript. Projeto educacional de portfólio de Erick Augusto, construído com apoio de IA e documentado para estudo e personalização.
+Painel de análise de vendas com importação de CSV, consultas SQL e interface responsiva em JavaScript. Projeto pessoal de portfólio de Erick Augusto, documentado para estudo e personalização.
 
 ![Painel de vendas](docs/preview.jpg)
 
@@ -94,3 +94,5 @@ Este painel é local e não tem login, integração com ERP, pedidos com múltip
 
 Veja [o roteiro de estudo](docs/ESTUDO.md) para transformar o exemplo em aprendizado demonstrável.
 
+
+Desenvolvimento com apoio de IA.
